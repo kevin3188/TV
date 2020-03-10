@@ -1,0 +1,145 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo=CCTV1.png tvg-name=CCTV1 group-title=央视频道,CCTV1
+http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV2.png tvg-name=CCTV2 group-title=央视频道,CCTV2
+http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV3.png tvg-name=CCTV3 group-title=央视频道,CCTV3
+http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV4.png tvg-name=CCTV4 group-title=央视频道,CCTV4
+http://223.110.241.139:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV5.png tvg-name=CCTV5 group-title=央视频道,CCTV5
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV5+.png tvg-name=CCTV5+ group-title=央视频道,CCTV5+
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV6.png tvg-name=CCTV6 group-title=央视频道,CCTV6
+http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV7.png tvg-name=CCTV7 group-title=央视频道,CCTV7
+http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV8.png tvg-name=CCTV8 group-title=央视频道,CCTV8
+http://223.110.241.139:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV9.png tvg-name=CCTV9 group-title=央视频道,CCTV9
+http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV10.png tvg-name=CCTV10 group-title=央视频道,CCTV10
+http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV11.png tvg-name=CCTV11 group-title=央视频道,CCTV11
+http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV12.png tvg-name=CCTV12 group-title=央视频道,CCTV12
+http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV13.png tvg-name=CCTV13 group-title=央视频道,CCTV13
+http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=央视频道,CCTV14
+http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=央视频道,CCTV15
+http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/1.m3u8
+#EXTINF:-1 tvg-logo=CCTVNEWS.png tvg-name=CCTVNEWS group-title=央视频道,CCTVNEWS
+http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/1.m3u8
+#EXTINF:-1 tvg-logo=发现之旅.png tvg-name=发现之旅 group-title=央视频道,发现之旅
+http://223.110.241.139:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/1.m3u8
+#EXTINF:-1 tvg-logo=老故事.png tvg-name=老故事 group-title=央视频道,老故事
+http://223.110.241.139:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/1.m3u8
+#EXTINF:-1 tvg-logo=女性时尚.png tvg-name=女性时尚 group-title=央视频道,女性时尚
+http://223.110.241.139:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/1.m3u8
+#EXTINF:-1 tvg-logo=湖南卫视 .png tvg-name=湖南卫视  group-title=卫视频道,湖南卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+#EXTINF:-1 tvg-logo=江苏卫视 .png tvg-name=江苏卫视  group-title=卫视频道,江苏卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
+#EXTINF:-1 tvg-logo=浙江卫视 .png tvg-name=浙江卫视  group-title=卫视频道,浙江卫视 
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 tvg-logo=东方卫视 .png tvg-name=东方卫视  group-title=卫视频道,东方卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
+#EXTINF:-1 tvg-logo=北京卫视 .png tvg-name=北京卫视  group-title=卫视频道,北京卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
+#EXTINF:-1 tvg-logo=广东卫视 .png tvg-name=广东卫视  group-title=卫视频道,广东卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
+#EXTINF:-1 tvg-logo=深圳卫视 .png tvg-name=深圳卫视  group-title=卫视频道,深圳卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
+#EXTINF:-1 tvg-logo=天津卫视 .png tvg-name=天津卫视  group-title=卫视频道,天津卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8
+#EXTINF:-1 tvg-logo=安徽卫视 .png tvg-name=安徽卫视  group-title=卫视频道,安徽卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225945/1.m3u8
+#EXTINF:-1 tvg-logo=山东卫视 .png tvg-name=山东卫视  group-title=卫视频道,山东卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8
+#EXTINF:-1 tvg-logo=湖北卫视 .png tvg-name=湖北卫视  group-title=卫视频道,湖北卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 tvg-logo=辽宁卫视 .png tvg-name=辽宁卫视  group-title=卫视频道,辽宁卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
+#EXTINF:-1 tvg-logo=重庆卫视 .png tvg-name=重庆卫视  group-title=卫视频道,重庆卫视 
+http://223.110.243.138/PLTV/3/224/3221227421/index.m3u8
+#EXTINF:-1 tvg-logo=江西卫视 .png tvg-name=江西卫视  group-title=卫视频道,江西卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8
+#EXTINF:-1 tvg-logo=河北卫视 .png tvg-name=河北卫视  group-title=卫视频道,河北卫视 
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 tvg-logo=黑龙江卫视 .png tvg-name=黑龙江卫视  group-title=卫视频道,黑龙江卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
+#EXTINF:-1 tvg-logo=东南卫视.png tvg-name=东南卫视 group-title=卫视频道,东南卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225961/1.m3u8
+#EXTINF:-1 tvg-logo=四川卫视.png tvg-name=四川卫视 group-title=卫视频道,四川卫视
+http://39.134.65.87:80/PLTV/88888888/224/3221225497/index.m3u8
+#EXTINF:-1 tvg-logo=广西卫视.png tvg-name=广西卫视 group-title=卫视频道,广西卫视
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226055/index.m3u8
+#EXTINF:-1 tvg-logo=河南卫视.png tvg-name=河南卫视 group-title=卫视频道,河南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
+#EXTINF:-1 tvg-logo=吉林卫视.png tvg-name=吉林卫视 group-title=卫视频道,吉林卫视
+http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8
+#EXTINF:-1 tvg-logo=山西卫视.png tvg-name=山西卫视 group-title=卫视频道,山西卫视
+http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
+#EXTINF:-1 tvg-logo=贵州卫视.png tvg-name=贵州卫视 group-title=卫视频道,贵州卫视
+http://112.50.243.8/PLTV/88888888/224/3221226864/1.m3u8
+#EXTINF:-1 tvg-logo=青海卫视.png tvg-name=青海卫视 group-title=卫视频道,青海卫视
+http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
+#EXTINF:-1 tvg-logo=云南卫视.png tvg-name=云南卫视 group-title=卫视频道,云南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8
+#EXTINF:-1 tvg-logo=宁夏卫视.png tvg-name=宁夏卫视 group-title=卫视频道,宁夏卫视
+http://39.134.65.162/PLTV/88888888/224/3221225579/index.m3u8
+#EXTINF:-1 tvg-logo=新疆卫视.png tvg-name=新疆卫视 group-title=卫视频道,新疆卫视
+http://223.110.243.136:80/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:-1 tvg-logo=海南卫视.png tvg-name=海南卫视 group-title=卫视频道,海南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1 tvg-logo=内蒙古卫视.png tvg-name=内蒙古卫视 group-title=卫视频道,内蒙古卫视
+http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
+#EXTINF:-1 tvg-logo=CETV1.png tvg-name=CETV1 group-title=卫视频道,CETV1
+http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
+#EXTINF:-1 tvg-logo=卡酷少儿.png tvg-name=卡酷少儿 group-title=动画频道,卡酷少儿
+http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/1.m3u8
+#EXTINF:-1 tvg-logo=金鹰卡通.png tvg-name=金鹰卡通 group-title=动画频道,金鹰卡通
+http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+#EXTINF:-1 tvg-logo=哈哈炫动.png tvg-name=哈哈炫动 group-title=动画频道,哈哈炫动
+http://223.110.241.139:6610/gitv/live1/G_XUANDONG/G_XUANDONG/1.m3u8
+#EXTINF:-1 tvg-logo=动漫秀场.png tvg-name=动漫秀场 group-title=动画频道,动漫秀场
+http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+#EXTINF:-1 tvg-logo=电竞世界.png tvg-name=电竞世界 group-title=体育电竞,电竞世界
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:-1 tvg-logo=吉林篮球.png tvg-name=吉林篮球 group-title=体育电竞,吉林篮球
+http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
+#EXTINF:-1 tvg-logo=高尔夫.png tvg-name=高夫1 group-title=体育电竞,高尔夫
+http://223.110.241.139:6610/gitv/live1/G_GAOERFU/G_GAOERFU/1.m3u8
+#EXTINF:-1 tvg-logo=游戏直播.png tvg-name=游戏直播 group-title=体育电竞,游戏直播
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
+#EXTINF:-1 tvg-logo=极速汽车.png tvg-name=极速汽车 group-title=体育电竞,极速汽车
+http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+#EXTINF:-1 tvg-logo=五星体育.png tvg-name=五星体育 group-title=体育电竞,五星体育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225964/1.m3u8
+#EXTINF:-1 tvg-logo=第1财经.png tvg-name=第1财经 group-title=综艺财经,第1财经
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 tvg-logo=寰宇地理.png tvg-name=寰宇地理 group-title=综艺财经,寰宇地理
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
+#EXTINF:-1 tvg-logo=生活时尚.png tvg-name=生活时尚 group-title=综艺财经,生活时尚
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+#EXTINF:-1 tvg-logo=东方财经.png tvg-name=东方财经 group-title=综艺财经,东方财经
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225933/1.m3u8
+#EXTINF:-1 tvg-logo=七彩戏剧.png tvg-name=七彩戏剧 group-title=综艺财经,七彩戏剧
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
+#EXTINF:-1 tvg-logo=纪实.png tvg-name=纪实 group-title=综艺财经,纪实
+http://112.50.243.8/PLTV/88888888/224/3221226958/1.m3u8
+#EXTINF:-1 tvg-logo=新娱乐.png tvg-name=新娱乐 group-title=综艺财经,新娱乐
+http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/1.m3u8
+#EXTINF:-1 tvg-logo=家庭理财.png tvg-name=家庭理财 group-title=综艺财经,家庭理财
+http://223.110.241.139:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/1.m3u8
+#EXTINF:-1 tvg-logo=弈坛春秋.png tvg-name=弈坛春秋 group-title=综艺财经,弈坛春秋
+http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
+#EXTINF:-1 tvg-logo=中国交通.png tvg-name=中国交通 group-title=综艺财经,中国交通
+http://223.110.241.139:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/1.m3u8
+#EXTINF:-1 tvg-logo=国学频道.png tvg-name=国学频道 group-title=综艺财经,国学频道
+http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/1.m3u8
+#EXTINF:-1 tvg-logo=求索记录.png tvg-name=求索记录 group-title=综艺财经,求索记录
+http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
